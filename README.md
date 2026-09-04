@@ -1,22 +1,27 @@
 # DailyTaskScheduler
 
-A practical task-scheduling application designed to help users organize recurring and daily activities in one place.
+> A productivity-focused application for organizing daily tasks and scheduling activities in one place.
 
 ## Overview
 
-**DailyTaskScheduler** explores the fundamentals of task management, scheduling logic, and productivity-focused user interfaces. The goal is to make planning daily work clear, simple, and actionable.
+**DailyTaskScheduler** explores the core ideas behind task management, scheduling, and productivity software. It is designed to provide a clear workflow for planning activities while demonstrating practical application development and user-interface design.
 
-## Highlights
+## Features
 
-- 📅 Daily task organization
-- ⏰ Scheduling-focused workflow
-- ✅ Task tracking
-- 🧠 Designed around productivity
-- 📱 Responsive, user-friendly experience
+- Daily task organization
+- Scheduling-focused workflow
+- Task tracking
+- Productivity-oriented interface
+- Responsive user experience
 
 ## Getting Started
 
-Clone the repository and install the dependencies required by the project.
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
 
 ```bash
 git clone https://github.com/PhilaSim/DailyTaskScheduler.git
@@ -25,22 +30,23 @@ npm install
 npm run dev
 ```
 
-> If the project uses a different start command, check the project's package configuration before running it.
+Check `package.json` if the project uses a different development script.
 
-## Project Goals
+## Project Objectives
 
 - Build practical productivity software
-- Experiment with scheduling and task-management logic
-- Create a simple experience that can be extended over time
+- Explore scheduling and task-management workflows
+- Practice responsive application design
+- Create a foundation that can be extended with additional productivity features
 
 ## Contributing
 
-Feel free to open an issue with an idea or submit a pull request with improvements.
+Bug reports, feature ideas, and improvements are welcome. Please open an issue for larger changes or submit a pull request with a clear description of your contribution.
 
 ## License
 
-No license has been specified for this repository yet.
+No license has been specified for this repository.
 
----
+## Author
 
-Built by **PhilaSim**.
+**PhilaSim**
